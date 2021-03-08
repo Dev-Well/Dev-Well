@@ -4,7 +4,7 @@
 
 ## 𝔸 𝕝𝕚𝕥𝕥𝕝𝕖 𝕓𝕚𝕥 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖_
 ## I'm Wellington, 19y
-## Beginner programmer 
+## Programmer JAVA | WEB Developer
 ## Systems Analysis and Development Student
 
 
