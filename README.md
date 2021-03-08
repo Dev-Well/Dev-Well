@@ -3,8 +3,8 @@
 ![Welcome](https://github.com/Dev-Well/Dev-Well/blob/main/gif_menu.gif.gif)
 
 ## _۪۪ۗۗۖ۫۫̉̑̐A little bit about me_۪۪ۗۗۖ۫۫̉̑̐
-# Meu nome é Wellington, tenho 19 anos e minha maior paixão é programar. Desde pequeno fascinado em linhas de código, desde então dedico meu tempo na frente do computador criando sites e solucionando problemas com linguagens de programação.
-# Atualmente trabalho como Home Office e estou me graduando em Análise e Desenvolvimento de Sistemas.
+𝕸𝖊𝖚 𝖓𝖔𝖒𝖊 𝖊́ 𝖂𝖊𝖑𝖑𝖎𝖓𝖌𝖙𝖔𝖓, 𝖙𝖊𝖓𝖍𝖔 19 𝖆𝖓𝖔𝖘 𝖊 𝖒𝖎𝖓𝖍𝖆 𝖒𝖆𝖎𝖔𝖗 𝖕𝖆𝖎𝖝𝖆̃𝖔 𝖊́ 𝖕𝖗𝖔𝖌𝖗𝖆𝖒𝖆𝖗. 𝕯𝖊𝖘𝖉𝖊 𝖕𝖊𝖖𝖚𝖊𝖓𝖔 𝖋𝖆𝖘𝖈𝖎𝖓𝖆𝖉𝖔 𝖊𝖒 𝖑𝖎𝖓𝖍𝖆𝖘 𝖉𝖊 𝖈𝖔́𝖉𝖎𝖌𝖔, 𝖉𝖊𝖘𝖉𝖊 𝖊𝖓𝖙𝖆̃𝖔 𝖉𝖊𝖉𝖎𝖈𝖔 𝖒𝖊𝖚 𝖙𝖊𝖒𝖕𝖔 𝖓𝖆 𝖋𝖗𝖊𝖓𝖙𝖊 𝖉𝖔 𝖈𝖔𝖒𝖕𝖚𝖙𝖆𝖉𝖔𝖗 𝖈𝖗𝖎𝖆𝖓𝖉𝖔 𝖘𝖎𝖙𝖊𝖘 𝖊 𝖘𝖔𝖑𝖚𝖈𝖎𝖔𝖓𝖆𝖓𝖉𝖔 𝖕𝖗𝖔𝖇𝖑𝖊𝖒𝖆𝖘 𝖈𝖔𝖒 𝖑𝖎𝖓𝖌𝖚𝖆𝖌𝖊𝖓𝖘 𝖉𝖊 𝖕𝖗𝖔𝖌𝖗𝖆𝖒𝖆𝖈̧𝖆̃𝖔.
+
 <!--
 **Dev-Well/Dev-Well** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
