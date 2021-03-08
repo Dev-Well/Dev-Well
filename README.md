@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Welcome](https://github.com/Dev-Well/Dev-Well/blob/main/gif_menu.gif.gif)
+
+
 <!--
 **Dev-Well/Dev-Well** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
