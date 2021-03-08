@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Welcome](https://github.com/Dev-Well/Dev-Well/blob/main/gif_menu.gif.gif)
+![Welcome](https://github.com/Dev-Well/Dev-Well/blob/main/programmer.gif)
 
 ## 𝔸 𝕝𝕚𝕥𝕥𝕝𝕖 𝕓𝕚𝕥 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖_
 ## I'm Wellington, 19y
